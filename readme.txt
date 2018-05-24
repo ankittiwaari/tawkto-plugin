@@ -3,7 +3,7 @@ Contributors: ankittiwaari
 Tags: Online chat, Chat support, Free chat support
 Requires at least: 3.7
 Tested up to: 4.7
-Stable tag: 1.1
+Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
